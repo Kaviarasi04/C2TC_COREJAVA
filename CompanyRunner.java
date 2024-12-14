@@ -1,4 +1,4 @@
-package CompanyApp;
+package com.kaviarasi.assignment;
 
 public class CompanyRunner {
     public static void main(String[] args) {
