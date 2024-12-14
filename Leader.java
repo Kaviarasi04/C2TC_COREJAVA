@@ -1,4 +1,4 @@
-package CompanyApp;
+package com.kaviarasi.assignment;
 
 public class Leader extends Worker {
     private String department;
